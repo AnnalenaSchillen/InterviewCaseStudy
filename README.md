@@ -1,4 +1,4 @@
-<h1> l21sCaseStudy </h1>
+<h1> CaseStudy </h1>
 <strong>Functionality</strong>: Read data from csv into mysql database with the title casestudy.<br>
 
 <h2> Mysql phpmyadmin:</h2><br>
