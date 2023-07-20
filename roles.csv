@@ -5,3 +5,6 @@ user_id,role
 2000,read
 3000,read
 3000,delete
+23000,read
+30300,read
+303300,delete
